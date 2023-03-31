@@ -1,6 +1,6 @@
 Name:		texlive-thucoursework
 Version:	56435
-Release:	1
+Release:	2
 Summary:	Coursework template for Tsinghua University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thucoursework
