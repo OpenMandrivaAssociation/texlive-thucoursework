@@ -3,7 +3,7 @@ Version:	56435
 Release:	2
 Summary:	Coursework template for Tsinghua University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thucoursework
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/thucoursework
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thucoursework.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thucoursework.doc.r%{version}.tar.xz
